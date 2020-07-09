@@ -1,4 +1,4 @@
-## Hi 🇨🇦🇺🇸🇬🇧 ~ Hola 🇵🇷 ~ Bonjour 🇫🇷🇨🇦🇭🇹
+## Hi ~ Hola 🇵🇷 ~ Bonjour
 
 <!--
 **ian-flores/ian-flores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
