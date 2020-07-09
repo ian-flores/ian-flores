@@ -1,9 +1,8 @@
-# Hi/Hola/Bonjour 👋
+## Hi/Hola/Bonjour 👋
 
 <!--
 **ian-flores/ian-flores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-## What I do
 
 ### 🔭 I’m currently working on:
 
@@ -34,7 +33,6 @@
 <!--
 ### 🤔 I’m looking for help with ...
 -->
-## About me
 
 ### 😄 Pronouns
 
