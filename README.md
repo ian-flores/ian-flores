@@ -1,4 +1,4 @@
-## Hi/Hola/Bonjour 👋
+## Hi 🇨🇦🇺🇸🇬🇧 ~ Hola 🇵🇷 ~ Bonjour 🇫🇷🇨🇦🇭🇹
 
 <!--
 **ian-flores/ian-flores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,11 +10,11 @@
 
 > This is a research project focusing on how and how well data scientists and data science students identify errors in data analyses. In particular, we want to explore how the ability to catch errors varies by level of experience as well as familiarity to the data and type of analysis. 
 
-#### [Glosario](https://github.com/carpentries/glosario)
+#### [Glosario](https://github.com/carpentries/glosario) 📦
 
 > `glosario` is an open source glossary of terms used in data science that is available online and also as a library in both R and Python. By adding glossary keys to a lesson's metadata, authors can indicate what the lesson teaches, what learners ought to know before they start, and where they can go to find that knowledge. Authors can also use the library's functions to insert consistent hyperlinks for terms and definitions in their lessons in any of several (human) languages.
 
-#### [Templar](https://github.com/r-for-educators/templar)
+#### [Templar](https://github.com/r-for-educators/templar) 📦
 
 > `templar` provides tools to create variant R Markdown documents. Let’s say you want to create an exam for students and have three different variants, but the narrative of the exercises will stay the same and just the code chunks will differ. You can use templar to select consistent variant code chunks just by adding an extra argument to the chunk’s setup. This package is still in its early stages but it will be useful for both education and research.
 
@@ -38,14 +38,16 @@
 
 > He/Him/They | El/Elle
 
+<!--
 ### ⚡ Fun fact
 
 > I started university at 14 years old.
+-->
 
 ### 💬 Ask me about
 
-> R, Python, and Data Science
+> R, Python, Data Science
 
 ### 📫 How to reach me
 
-> iflores.siaca@pm.me / iflores.siaca@gmail.com
+> 🔏 iflores.siaca@pm.me / ✉️ iflores.siaca@gmail.com
