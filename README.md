@@ -25,10 +25,12 @@
 
 #### - [Kubernetes](https://kubernetes.io/)
 
-#### - [JS Development](#)
+#### - [JS Development](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
-### 👯 I’m looking to collaborate on ...
+### 👯 I’m looking to collaborate on
+
+> Developing infrastructure to support novel challenges in society. Specifically I'm looking to create an Open Data Management Solution not based in Drupal or Wordpress, based in JS taking into consideration Cloud solutions. 
 
 <!--
 ### 🤔 I’m looking for help with ...
