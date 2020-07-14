@@ -1,8 +1,11 @@
-## Hola 🇵🇷
+<!--## Hola 🇵🇷
 
-<!--
 **ian-flores/ian-flores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+<p align="center">
+  <img src="ian_hero.png" width="650">
+</p>
 
 ### 🔭 I’m currently working on:
 
