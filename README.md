@@ -57,4 +57,4 @@
 
 ### 📫 How to reach me
 
-> 🔏 iflores.siaca@pm.me / ✉️ iflores.siaca@gmail.com
+> 🔏 iflores.siaca@pm.me / ✉️ iflores.siaca@gmail.com / ✉️ iflores.siaca@rstudio.com 
