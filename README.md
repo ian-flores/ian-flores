@@ -9,9 +9,14 @@
 </p>
 <hr>
 
+![Ian's github stats](https://github-readme-stats.vercel.app/api?username=ian-flores&theme=bear&show_icons=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ian-flores&langs_count=7&layout=compact&theme=bear&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 🔭 I’m currently working on:
 
-[![Glosario Card](https://github-readme-stats.vercel.app/api/pin/?username=carpentries&repo=glosario)](https://github.com/carpentries/glosario)
+[![Glosario Card](https://github-readme-stats.vercel.app/api/pin/?username=carpentries&repo=glosario&theme=bear)](https://github.com/carpentries/glosario)
 
 > `glosario` is an open source glossary of terms used in data science that is available online and also as a library in both R and Python. By adding glossary keys to a lesson's metadata, authors can indicate what the lesson teaches, what learners ought to know before they start, and where they can go to find that knowledge. Authors can also use the library's functions to insert consistent hyperlinks for terms and definitions in their lessons in any of several (human) languages.
 
