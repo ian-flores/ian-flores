@@ -10,7 +10,7 @@
 <hr>
 <span>
   <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ian-flores&langs_count=10&layout=compact&theme=bear&hide=html,css" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ian-flores&langs_count=10&layout=compact&theme=bear&hide=html,css,jupyter%20notebook" />
 </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ian-flores&theme=bear&show_icons=true&count_private=true&include_all_commits=true" />
