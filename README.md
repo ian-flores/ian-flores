@@ -35,4 +35,4 @@ Developing digital infrastructure to support novel challenges in society. Specif
 
 ### 📫 How to reach me
 
-> 🔏 iflores.siaca@hey.com / ✉️ iflores.siaca@rstudio.com 
+> 🔏 iflores.siaca@hey.com 
