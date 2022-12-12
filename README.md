@@ -27,12 +27,12 @@ Developing digital infrastructure to support novel challenges in society. Specif
 
 ### ⚡ Fun fact
 
-> I started university at 14 years old. I speak 4 languages at different levels of fluency (English, Spanish, French, Haitian Creole). I'm an AIDA certified freediver and I enjoy bodyboarding. 
+I started university at 14 years old. I speak 4 languages at different levels of fluency (English, Spanish, French, Haitian Creole). I'm an AIDA certified freediver and I enjoy bodyboarding.
 
 ### 💬 Ask me about
 
-> R, Python, Go, Data Science, Kubernetes, DevOps, CI/CD
+R, Python, Go, Data Science, Kubernetes, DevOps, CI/CD
 
 ### 📫 How to reach me
 
-> 🔏 iflores.siaca@hey.com 
+🔏 iflores.siaca@hey.com 
