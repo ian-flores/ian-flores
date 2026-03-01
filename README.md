@@ -1,36 +1,13 @@
-# Hola 🇵🇷
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ian-flores/ian-flores/master/ian_hero.svg" height="325" width="750">
+  <img src="https://raw.githubusercontent.com/ian-flores/ian-flores/master/ian_hero.svg" width="100%">
 </p>
-<hr>
 
-## What I'm building
+I build tools that let R programmers create AI agent systems with the same safety and observability guarantees you'd expect from production infrastructure. The [secure*](https://github.com/ian-flores?tab=repositories&q=secure&type=source) ecosystem handles everything from sandboxed code execution to tracing, guardrails, and multi-agent orchestration — so you can focus on the agent logic, not the plumbing.
 
-An ecosystem of R packages for building secure, observable LLM agent workflows:
+I also maintain [pedanticran](https://github.com/ian-flores/pedanticran), a linter that catches the CRAN policy violations `R CMD check` misses — 141 rules from a decade of mailing list rejections.
 
-- [**orchestr**](https://github.com/ian-flores/orchestr) — Graph-based multi-agent orchestration
-- [**securer**](https://github.com/ian-flores/securer) — Sandboxed R code execution with tool-call IPC
-- [**securetools**](https://github.com/ian-flores/securetools) — Security-hardened tool definitions
-- [**securetrace**](https://github.com/ian-flores/securetrace) — Observability, tracing, and cost accounting
-- [**secureguard**](https://github.com/ian-flores/secureguard) — Input, code, and output guardrails
-- [**securebench**](https://github.com/ian-flores/securebench) — Evaluation and benchmarking
-- [**securecontext**](https://github.com/ian-flores/securecontext) — Memory, RAG, and context management
+Currently exploring the intersection of AI agents, education technology, and open data. Always down to collaborate on digital infrastructure for novel societal challenges.
 
-I also maintain [**pedanticran**](https://github.com/ian-flores/pedanticran) — a linter that catches the CRAN policy violations `R CMD check` misses.
+---
 
-## 👯 I'm looking to collaborate on
-
-Building digital infrastructure for novel societal challenges — particularly at the intersection of AI agents, education technology, and open data.
-
-## 💬 Ask me about
-
-R, Python, Go, AI/LLM Agents, Data Science, Kubernetes, DevOps, CI/CD, FinOps
-
-## ⚡ Fun fact
-
-I started university at 14 years old. I speak 4 languages at different levels of fluency (English, Spanish, French, Haitian Creole). I'm an AIDA certified freediver and I enjoy bodyboarding.
-
-### 📫 How to reach me
-
-🔏 iflores.siaca@hey.com
+<sub>🇵🇷 Started university at 14 · 4 languages · AIDA certified freediver · bodyboarder</sub>
