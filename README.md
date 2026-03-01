@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/ian-flores/ian-flores/master/ian_hero.svg" width="100%">
 </p>
 
-Senior Software Engineer at [Posit PBC](https://posit.co), working on cloud infrastructure, CI/CD, and developer tooling for data science platforms. I help build and maintain the systems behind [Posit Connect](https://posit.co/products/enterprise/connect/), [Workbench](https://posit.co/products/enterprise/workbench/), and [Package Manager](https://posit.co/products/enterprise/package-manager/) — shipping the infrastructure that data scientists and R/Python developers rely on daily.
+Senior Software Engineer at [Posit PBC](https://posit.co), working on [team-operator](https://github.com/posit-dev/team-operator) and [ptd](https://github.com/posit-dev/ptd) — the Kubernetes operators and infrastructure that power Posit's data science platform products in enterprise environments.
 
 On the side, I'm exploring what it looks like to build secure, observable AI agent systems in R. The [secure*](https://github.com/ian-flores?tab=repositories&q=secure&type=source) ecosystem is an experiment in giving R the same agent infrastructure primitives that exist in the Python/TypeScript world — sandboxed execution, tool-call IPC, tracing, guardrails, and multi-agent orchestration.
 
