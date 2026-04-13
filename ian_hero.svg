@@ -89,7 +89,7 @@
   <g font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="12.5" fill="#8b949e">
     <text x="62" y="276"><tspan fill="#6e7681">$</tspan> orchestr <tspan fill="#484f58">·</tspan> securer <tspan fill="#484f58">·</tspan> securetools <tspan fill="#484f58">·</tspan> securetrace</text>
     <text x="62" y="300"><tspan fill="#6e7681">$</tspan> secureguard <tspan fill="#484f58">·</tspan> securebench <tspan fill="#484f58">·</tspan> securecontext</text>
-    <text x="62" y="324"><tspan fill="#6e7681">$</tspan> pedanticran <tspan fill="#484f58">·</tspan> erudax</text>
+    <text x="62" y="324"><tspan fill="#6e7681">$</tspan> pedanticran</text>
   </g>
 
   <!-- Bottom accent line -->
