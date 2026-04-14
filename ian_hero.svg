@@ -65,7 +65,7 @@
   <text x="60" y="140" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="42" font-weight="700" fill="#e6edf3" letter-spacing="-1">Ian Flores Siaca</text>
 
   <!-- Subtitle -->
-  <text x="60" y="178" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="16" fill="#8b949e" letter-spacing="0.5">Building secure AI agent infrastructure</text>
+  <text x="60" y="178" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="16" fill="#8b949e" letter-spacing="0.5">Infrastructure for enterprise data teams</text>
 
   <!-- Tech tags -->
   <g font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13">
